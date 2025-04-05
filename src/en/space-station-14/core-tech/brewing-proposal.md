@@ -46,7 +46,6 @@ Fermentation is the first step of making alcohol. Fermentation would always use 
 | Sugarcane | Sugarcane Wine |
 | Watermelon | Watermelon Wine |
 | Corn | Whiskey Malt |
-| Rice | Whiskey Malt |
 | Potato | Potato Wine |
 | Agave | Pulque |
 | Mugwort | Mugwort Malt | ?
